@@ -13,3 +13,6 @@
 'Question 5-attempts', (6144, 71)
 'Question 5-last_attempt', (6656, 74)
 'Question 5-correct', (7168, 70)
+'Question 0-attempts', (7680, 71)
+'Question 0-last_attempt', (8192, 74)
+'Question 0-correct', (8704, 70)
