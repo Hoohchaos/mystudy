@@ -83,4 +83,8 @@ def mean(s):
     """
     # BEGIN Question 1
     "*** YOUR CODE HERE ***"
+    sum = 0
+    for i in s:
+        sum += i
+    return sum / len(s)
     # END Question 1
